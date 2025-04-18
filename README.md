@@ -1,6 +1,6 @@
 This is a Next.js, Tailwind CSS, SSE, Chat App starter template.
 
-![image](./public/preview.png?raw=true)
+![image](./public/preview.png)
 
 ## Getting Started
 
