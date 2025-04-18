@@ -1,5 +1,5 @@
 This is a Next.js, Tailwind CSS, SSE, Chat App starter template.
-['https://github.com/Entremets/tailwind-nextjs-starter-chat/blob/main/public/preview.png']
+!['https://github.com/Entremets/tailwind-nextjs-starter-chat/blob/main/public/preview.png']
 
 ## Getting Started
 
